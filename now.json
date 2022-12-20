@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-  	{"src": "/(.*)","dest": "https://dev-sexshop.pantheonsite.io/$1"}
+  	{"src": "/(.*)","dest": "https://dev-ling.pantheonsite.io/$1"}
   ]
 }
